@@ -2244,7 +2244,7 @@
 				<Applicable_Unit_Categories/>
 				<Applicable_Unit_Types> 
 				Bulwark_III, Bulwark_II, Bulwark_I, Dauntless, Liberator_Cruiser, Quasar, Hornet_Assault_Carrier, Dauntless_Transport,  
-				New_Republic_AAC_2_Company, AAC_3_Company, Imperial_Flashblind_Company, Gian_Company
+				New_Republic_AAC_2_Company, AAC_3_Company, Proteus_AAC_3_Company, Imperial_Flashblind_Company, Gian_Company, Gian_Proteus_Company
 				</Applicable_Unit_Types>
 				<Price_Reduction_Percentage>0.30</Price_Reduction_Percentage>
 				<Stacking_Category>50</Stacking_Category>
@@ -2254,7 +2254,7 @@
 				<Applicable_Unit_Categories/>
 				<Applicable_Unit_Types> 
 				Bulwark_III, Dauntless, Liberator_Cruiser, Quasar, Hornet_Assault_Carrier, Dauntless_Transport, 
-				New_Republic_AAC_2_Company, AAC_3_Company, Imperial_Flashblind_Company, Gian_Company
+				New_Republic_AAC_2_Company, AAC_3_Company, Proteus_AAC_3_Company, Imperial_Flashblind_Company, Gian_Company, Gian_Proteus_Company
 				</Applicable_Unit_Types>
 				<Time_Reduction_Percentage>0.30</Time_Reduction_Percentage>
 				<Stacking_Category>50</Stacking_Category>

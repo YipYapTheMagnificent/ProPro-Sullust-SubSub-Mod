@@ -1105,31 +1105,28 @@ return {
 			IntroText = "TEXT_CONQUEST_PROTEUS_GRUNGER",
 			IntroHolo = "Grunger_Loop",
 		},
-		["IMPERIAL_SULLUST"] = {
+		["SULLUST"] = {
 			FriendlyName = "Sullust",
 			Planets = {"SULLUST"},
 			LeaderTable = {"SIIN_SUUB_PROCLAMATION"},
 			LeaderEndingNames = {"President Suub"},
-			HeroList = {"Siin_Suub_Proclamation", "Yonka_Avarice", "Larin_Vost_Team"},
+			HeroList = {"Siin_Suub_Proclamation", "Aarica_Vost_Team", "Larin_Vost_Team"},
 			UnlockList = {
 				-- Space
-				"Customs_Corvette", "Gozanti_Cruiser_Group", "Tartan_Patrol_Cruiser", "Marauder_Picket_Cruiser", "Carrack_Cruiser", "Galleon", "Quasar",
-				"Hornet_Assault_Carrier", "Vindicator_Cruiser", "Liberator_Cruiser", "Dauntless", "Victory_I_Star_Destroyer", "Bulwark_I", "Immobilizer_418_Refit",
-				"Procurator_Battlecruiser", "Bulwark_II", "Imperial_I_Star_Destroyer_Carrier",
+				"Customs_Corvette", "Gozanti_Cruiser_Group", "Marauder_Picket_Cruiser", "Arquitens_Refit", "Galleon", "Quasar",
+				"Hornet_Assault_Carrier", "Vindicator_Cruiser", "Liberator_Cruiser", "Dauntless", "Bulwark_I", "Immobilizer_Twin_Well",
+				"Invincible_Cruiser", "Bulwark_II", "Imperial_I_Star_Destroyer_Carrier",
 				"Mandator_II_Dreadnought", "Bulwark_III", "Lucrehulk_Auxiliary_Proteus",
 				-- Ground
-				"Imperial_Galactic_Marine_Company", "Heavy_Mercenary_Company", "CSA_Destroyer_Droid_Company",
-				"ISP_Company", "AT_ST_Company", "New_Republic_AAC_2_Company", "AT_DP_Company", "Class_I_Company",
-				"AV_7_Company", "008_Speeder_Company", "AAC_3_Company", "Imperial_Flashblind_Company", "MAAT_Company", "Imperial_UT_AA_Company",
-				"Imperial_A5_Juggernaut_Company", "C10_Siege_Tower_Company",
+				"Imperial_Galactic_Marine_Company", "Elite_Mercenary_Company", "CSA_Destroyer_Droid_Company",
+				"Imperial_ISP_Company", "AT_ST_Company", "New_Republic_AAC_2_Company", "Gian_Proteus_Company",
+				"New_Republic_MPTL_Company", "Proteus_AAC_3_Company", "Imperial_Flashblind_Company", "MAAT_Company", "Imperial_UT_AA_Company",
+				"A9_Floating_Fortress_Company", "XR85_Company",
 				-- Structures
 				"SoroSuub_HQ", "TransGalMeg_HQ",
 			},
+			FactionOverride = "Rebel",
 			IntroText = "TEXT_CONQUEST_PROTEUS_SULLUST",
 			IntroHolo = "Sian_Tevv_Loop",
-		},
-			FactionOverride = "Rebel",
-			IntroText = "TEXT_CONQUEST_PROTEUS_THORN",
-			IntroHolo = "Generic_Sith_Loop",
 		},
 }

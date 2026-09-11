@@ -118,7 +118,7 @@ return {
 			elseif proteus == "THORN" then
 				fighter = "TIE_DEFENDER_SQUADRON"
 			elseif proteus == "SULLUST" then
-				fighter = "DREXL_SQUADRON"
+				fighter = "STARWING_ASSAULT_SQUADRON"
 			--elseif proteus == "X1" then
 				--fighter = ""
 				
